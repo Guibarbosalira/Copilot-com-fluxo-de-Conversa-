@@ -49,6 +49,8 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 
- <img src=" " />
+ <img src=" " />![Captura de Tela 2025-05-06 às 23 11 37](https://github.com/user-attachments/assets/cf56dd5f-4427-4cbc-9938-303cabe9429a)
+
  <img src=" " />
    
+![Captura de Tela 2025-05-06 às 23 14 09](https://github.com/user-attachments/assets/159c4db2-6d6c-40ba-ae7f-8d82e2349fe6)
